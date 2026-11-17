@@ -1,17 +1,17 @@
 // Replace the example copy and images in this file. Image paths start at public/.
 export const site = {
   name: 'Brooke',
-  title: 'Brooke | Freelance Developer',
-  description: 'Selected website and app projects by an independent developer.',
-  email: 'hello@example.com',
+  title: 'Kate-Lynn Barrera | Interactive Designer',
+  description: 'Selected website and app projects by an independent designer.',
+  email: 'kkbdesigner2005@gmail.com',
   socialImage: '/images/og.png',
   // Optional. GitHub Actions supplies this URL when deployed to GitHub Pages.
   url: '',
 }
 
 export const home = {
-  heading: 'Freelance Developer',
-  paragraph: 'I build thoughtful websites and apps for people with an idea to share.',
+  heading: 'Interactive Designer',
+  paragraph: 'I build thoughtful designs and apps for people.',
   image: '/images/demo/portrait.png',
   imageAlt: 'Portrait used in the example portfolio',
   btnText: 'Case Studies',
